@@ -22,8 +22,8 @@ Blog ini dibuat untuk mengisi waktu luang ketika gabut saja dan membagaikan hasi
 
 ## Instalasi
 
-1. clone repo melalui terminal dengan cara `git clone https://github.com/amimhayden22/blog-coding`
-2. `cd blog_coding` untuk masuk ke dalam folder project ini
+1. clone repo melalui terminal dengan cara `git clone https://github.com/amimhayden22/blog-coding.git`
+2. `cd blog-coding` untuk masuk ke dalam folder project ini
 3. install semua dependesi yang dibutuhkan, dengan perintah `composer install` di terminal
 4. kemudian buat database mysql dengan nama `blog` bisa melalui phpmyadmin di xampp/laragon lalu import file sql yang ada di dalam folder ini yaitu `blog.sql`.
 5. selanjutnya, ketik `cp .env.example .env` di terminal
